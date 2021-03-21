@@ -1,0 +1,22 @@
+body{
+    font-size: 10px;
+}
+p{
+    font:bold 1.8rem "楷体";
+    text-indent: 1.4em;
+}
+.en{
+    font-family: "Times New Roman";
+    font-size: 1.4rem;
+}
+.cn{
+    font-family: "宋体";
+    font-size: 1.4rem;
+}
+ul{
+    font-size:1.4rem;
+    line-height: 2rem;
+}
+.a{
+    color: red;
+}
